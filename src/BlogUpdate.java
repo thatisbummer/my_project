@@ -1,3 +1,2 @@
-class BlogUpdate() {
-    
+class BlogUpdate() {    
 }
